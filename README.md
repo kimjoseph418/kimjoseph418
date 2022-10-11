@@ -1,4 +1,6 @@
 ### Hi there, I'm Joseph 👋
 
-- 🔭 I’m currently working on 
-- ⚡ You can reach me at: jaemkim418@gmail.com
+- ⚡ You can reach me at: 
+  - https://www.linkedin.com/in/joseph-kim-042073135/
+  - jaemkim418@gmail.com
+  - 910-599-2926
